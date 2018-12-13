@@ -98,6 +98,7 @@ PRODUCT_COPY_FILES += \
     vendor/smartisan/odin/proprietary/vendor/lib64/libfp_client.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libfp_client.so \
     vendor/smartisan/odin/proprietary/vendor/lib64/libfpservice.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libfpservice.so \
     vendor/smartisan/odin/proprietary/lib64/libtinycompress.so:system/lib64/libtinycompress.so \
+    vendor/smartisan/odin/proprietary/vendor/firmware/libpn548ad_fw.so:$(TARGET_COPY_OUT_VENDOR)/firmware/libpn548ad_fw.so \
     vendor/smartisan/odin/proprietary/vendor/lib/libAltek_AF.so:$(TARGET_COPY_OUT_VENDOR)/lib/libAltek_AF.so \
     vendor/smartisan/odin/proprietary/vendor/lib/libChamomilePA.so:$(TARGET_COPY_OUT_VENDOR)/lib/libChamomilePA.so \
     vendor/smartisan/odin/proprietary/vendor/lib/libHAFIAFalSDE1.so:$(TARGET_COPY_OUT_VENDOR)/lib/libHAFIAFalSDE1.so \
